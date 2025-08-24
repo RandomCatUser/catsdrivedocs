@@ -14,5 +14,9 @@
   * [Admin](config/admin)
   * [Users](config/users)
 
+* Need Any Help
+  * [Errors](faq/error.md)
+  * [Dev Note](faq/sh.md)
+
 * Devoloper
   * [Overview](ov/ov.md)
